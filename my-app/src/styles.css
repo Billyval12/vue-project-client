@@ -1,0 +1,19 @@
+:root {
+  /* Paleta de colores */
+  --primary-color: #284AC7;
+  /* --primary-color: #4B80E2;
+  --primary-color: #22A892; */
+  --title-color: #535356;
+  --bg-color: #EFEFEF;
+  --white-color: #ffffff;
+
+  /* Fuentes */
+  --primary-font: 'Montserrat' ;
+
+  /* Tamaño de textos */
+  --title-size: 1.5rem;
+  --title-size2: 1.2rem;
+  --menu-items-size: 0.8rem;
+  --table-size: 0.5rem;
+  
+}
