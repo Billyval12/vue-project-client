@@ -21,6 +21,4 @@ export default {
 .main-permission{
   padding: 20px;
 }
-
-
 </style>
