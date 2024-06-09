@@ -16,7 +16,7 @@
             <td>{{ house.numeroCasa }}</td>
             <td>{{ house.encargado }}</td>
             <td>{{ house.habitantes }}</td>
-            <td><a href="../views/AdminHouseDetailView.vue" @click.prevent="administrar(house.id)">Administrar</a></td>
+            <td><router-link to="/adminHouseDetailView" class="card-link"><a>Administrar</a></router-link></td>
           </tr>
         </tbody>
       </table>
